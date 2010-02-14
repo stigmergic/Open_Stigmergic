@@ -1,0 +1,3 @@
+ -Xms64m -Xmx2048m
+GUTSXL_fractal5_27
+GUTSXL_fractal5_27.jar,core.jar
